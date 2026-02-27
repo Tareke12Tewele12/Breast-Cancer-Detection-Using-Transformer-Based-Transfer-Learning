@@ -7,9 +7,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
-- [Author](#author)
-- [DOI](#doi)
-- [Cite As](#cite-as)
 
 ## Description
 
